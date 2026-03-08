@@ -1,0 +1,24 @@
+{
+  "name": "pong-godot",
+  "version": "1.0.0",
+  "description": "Pong game with godot",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oyun-atolyesi/pong-godot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/oyun-atolyesi/pong-godot/issues"
+  },
+  "homepage": "https://github.com/oyun-atolyesi/pong-godot#readme",
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}
